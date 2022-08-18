@@ -24,5 +24,4 @@ Users can also filter the table with multiple criteria.
 ![img_filter_based_on_city_shape]()
 
 ## Summary
-This webpage is a good start for summarizing UFO sightings information in one place. However, the filter values are case sensitive as the values in the datasets are in lowercase. Users have to be careful about the letter case of input values. 
-Furthermore, a statistic summary of the UFO sightings would be a great addition to this page. And it would be great to add the most current news of UFO sightings. 
+This webpage is a good start for summarizing UFO sightings information in one place. However, the filter values are case sensitive as the values in the dataset are lowercase. Users have to be careful about the letter case of input values. Furthermore, a statistical summary of the UFO sightings would be a great addition to this page. And it would be great to add the most current news of UFO sightings.
